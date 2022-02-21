@@ -1,6 +1,7 @@
 {
-  "name": "@dework/contracts",
+  "name": "dework-contracts",
   "version": "0.0.0",
+  "repository": "github:deworkxyz/contracts",
   "scripts": {},
   "devDependencies": {
     "@nomiclabs/hardhat-ethers": "^2.0.5",
